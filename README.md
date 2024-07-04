@@ -22,7 +22,7 @@ HTML, CSS, Javascript, ReactJS
 Clone the project
 
 ```bash
-  git clone https://github.com/Humanoid2005/Basic-Blog-Website.git
+  git clone https://github.com/Humanoid2005/Nike-Clone-App.git
 ```
 
 Go to the project directory
