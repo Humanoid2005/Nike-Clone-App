@@ -13,11 +13,7 @@ This project is a clone of the Nike products display page along authentication f
 HTML, CSS, Javascript, ReactJS
 
 
-## Website
 
-Click on the link given below to view the web-app.
-
-https://humanoid2005.github.io/Nike-Clone/
 
 
 
