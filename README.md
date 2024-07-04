@@ -28,7 +28,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd project-folder
+  cd Nike-Clone-App
 ```
 
 Install dependencies
