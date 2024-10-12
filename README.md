@@ -12,6 +12,7 @@ This project is a clone of the Nike products display page along authentication f
 
 HTML, CSS, Javascript, ReactJS
 
+## Web-App Endpoints
 
 |Endpoint |Function|
 |----|----|
